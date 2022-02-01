@@ -8,6 +8,7 @@
 #$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/94
 #$ INCLUDE: presets/4.3/osd/defaults.txt
 
+#$ OPTION BEGIN (CHECKED): Actual rates analogue
 set osd_units = IMPERIAL
 set osd_warn_arming_disable = ON
 set osd_warn_batt_not_full = OFF
@@ -139,3 +140,4 @@ set osd_camera_frame_width = 24
 set osd_camera_frame_height = 11
 set osd_framerate_hz = 12
 set osd_menu_background = TRANSPARENT
+#$ OPTION END
