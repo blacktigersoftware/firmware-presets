@@ -1,10 +1,12 @@
 #$ TITLE: ctzsnooze's race filter settings
 #$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: FILTERS
 #$ STATUS: OFFICIAL
 #$ KEYWORDS: race, filter, filters, ctzsnooze, RPM
 #$ AUTHOR: Betaflight
 #$ DESCRIPTION: ctzsnooze's standard race filter setup.
+#$ DESCRIPTION: tolerates fairly worn setups
 #$ DESCRIPTION: Requires RPM filtering and DShot telemetry!
 
 #$ INCLUDE: presets/4.3/filters/defaults.txt
